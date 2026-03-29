@@ -1,0 +1,91 @@
+Rank,Title,URL,Points,Author,Comment Count,Time Posted
+1,"I put all 8,642 Spanish laws in Git – every reform is a commit",https://github.com/EnriqueLop/legalize-es,241,enriquelop,82,2 hours ago
+2,Britain today generating 90%+ of electricity from renewables,https://grid.iamkate.com/,133,rwmj,90,2 hours ago
+3,I Built an Open-World Engine for the N64 [video],https://www.youtube.com/watch?v=lXxmIw9axWw,82,msephton,6,2 hours ago
+4,Cocoa-Way – Native macOS Wayland compositor for running Linux apps seamlessly,https://github.com/J-x-Z/cocoa-way,132,OJFord,43,3 hours ago
+5,"You Do Not, in Fact, Have to Hand It to Them",https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/,14,MindGods,2,33 minutes ago
+6,CERN uses tiny AI models burned into silicon for real-time LHC data filtering,https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering,164,TORcicada,82,5 hours ago
+7,A single-file C allocator with explicit heaps and tuning knobs,https://github.com/xtellect/spaces,23,enduku,10,3 hours ago
+8,"Go hard on agents, not on your filesystem",https://jai.scs.stanford.edu/,436,mazieres,255,13 hours ago
+9,AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip,https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/,212,zdw,113,11 hours ago
+10,Toma (YC W24) is hiring a Senior/Staff Eng to build AI automotive coworkers,https://www.ycombinator.com/companies/toma/jobs/2lrQI7S-sr-staff-software-engineer,,,,
+11,Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer,https://github.com/dbrll/ATTN-11,42,rahen,4,4 hours ago
+12,"Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting,9,nickjj,1,2 hours ago
+13,Make macOS consistently bad unironically,https://lr0.org/blog/p/macos/,456,speckx,323,18 hours ago
+14,The bee that everyone wants to save,https://naturalist.bearblog.dev/the-bee-that-everyone-wants-to-save/,160,nivethan,54,11 hours ago
+15,Go Naming Conventions: A Practical Guide,https://www.alexedwards.net/blog/go-naming-conventions,38,yurivish,10,5 hours ago
+16,No one is happy with NASA's new idea for private space stations,https://arstechnica.com/space/2026/03/what-happens-next-with-nasas-plan-to-replace-the-iss-source-it-could-get-ugly/,39,rbanffy,24,2 hours ago
+17,LG's new 1Hz display is the secret behind a new laptop's battery life,https://www.pcworld.com/article/3096432/lgs-new-1hz-display-is-the-secret-behind-a-new-laptops-battery-life.html,274,robotnikman,134,20 hours ago
+18,Anatomy of the .claude/ folder,https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder,525,freedomben,231,23 hours ago
+19,"Arm releases first in-house chip, with Meta as debut customer",https://www.cnbc.com/2026/03/24/arm-launches-its-own-cpu-with-meta-as-first-customer.html,41,goplayoutside,10,9 hours ago
+20,Nashville library launches Memory Lab for digitizing home movies,https://www.axios.com/local/nashville/2026/03/16/nashville-library-digitize-home-movies,163,toomuchtodo,40,20 hours ago
+21,Matadisco – Decentralized Data Discovery,https://matadisco.org/,27,biggestfan,3,5 hours ago
+22,Show HN: Twitch Roulette – Find live streamers who need views the most,https://twitchroulette.net/,147,ellg,78,15 hours ago
+23,"Byte Interviews Chuck Peddle, Father of the MOS 6502 and Commodore PET (1982)",https://computeradsfromthepast.substack.com/p/byte-interviews-chuck-peddle-father,13,rbanffy,1,1 hour ago
+24,Desperately Seeking Space Friends,https://reviewcanada.ca/magazine/2026/04/desperately-seeking-space-friends-review-the-pale-blue-data-point/,23,benbreen,1,7 hours ago
+25,Iran-linked hackers breach FBI director's personal email,https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/,313,m-hodges,425,23 hours ago
+26,‘Energy independence feels practical’: Europeans building mini solar farms,https://www.euronews.com/2026/03/26/suddenly-energy-independence-feels-practical-europeans-are-building-mini-solar-farms-at-ho,320,vrganj,295,1 day ago
+27,"Velxio 2.0 – Emulate Arduino, ESP32, and Raspberry Pi 3 in the Browser",https://github.com/davidmonterocrespo24/velxio,167,dmcrespo,46,17 hours ago
+28,ISBN Visualization,https://annas-archive.gd/isbn-visualization?,193,Cider9986,30,17 hours ago
+29,Meow.camera,https://meow.camera/#4258783365322591678,297,surprisetalk,65,23 hours ago
+30,Installing a Let's Encrypt TLS certificate on a Brother printer with Certbot,https://owltec.ca/Other/Installing+a+Let%27s+Encrypt+TLS+certificate+on+a+Brother+printer+automatically+with+Certbot+(%26+Cloudflare),229,8organicbits,53,1 day ago
+31,How to implement the Outbox pattern in Go and Postgres,https://www.youtube.com/watch?v=hJ4S-5MirvU,4,der_gopher,,40 minutes ago
+32,Explore the Hidden World of Sand,https://magnifiedsand.com/,256,RAAx707,41,23 hours ago
+33,Telnyx package compromised on PyPI,https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026,119,ramimac,120,19 hours ago
+34,The Future of SCIP,https://sourcegraph.com/blog/the-future-of-scip,82,jdorfman,22,17 hours ago
+35,.apks are just .zips; semi-legally hacking software for orphaned hardware [video],https://www.youtube.com/watch?v=P1kfuCkWo24,66,abadar,58,10 hours ago
+36,Trust Signals as Sparklines for Hacker News,https://hn-trustspark.com/,63,solaire_oa,33,7 hours ago
+37,People inside Microsoft are fighting to drop mandatory Microsoft Account,https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup,696,breve,545,1 day ago
+38,Improving Composer through real-time RL,https://cursor.com/blog/real-time-rl-for-composer,88,ingve,27,15 hours ago
+39,Data centers aren't breaking the grid. A broken grid is,https://fortune.com/2026/03/28/data-centers-grid-problem-infrastructure-ai/,3,Brajeshwar,2,46 minutes ago
+40,Ask HN: Founders of estonian e-businesses – is it worth it?,item?id=47500239,144,udl,84,21 hours ago
+41,Automatically generate all 3D print files for organizing a drawer,https://geniecrate.com/,65,woktalk,35,16 hours ago
+42,Desk for people who work at home with a cat,https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/,427,zdw,152,22 hours ago
+43,Building FireStriker: Making Civic Tech Free,https://firestriker.org/blog/building-firestriker-why-im-making-civic-tech-free,130,noleary,26,21 hours ago
+44,Running Tesla Model 3's computer on my desk using parts from crashed cars,https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/,960,driesdep,328,2 days ago
+45,Everything old is new again: memory optimization,https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html,207,ibobev,143,1 day ago
+46,Fets and Crosses: Tic-Tac-Toe built from 2458 discrete transistors,https://schilk.co/projects/fetsncrosses/,60,voxadam,14,14 hours ago
+47,Adults Lose Skills to AI. Children Never Build Them,https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them,53,ndr42,33,5 hours ago
+48,Capability-Based Security for Redox: Namespace and CWD as Capabilities,https://www.redox-os.org/news/nlnet-cap-nsmgr-cwd/,60,ejplatzer,7,18 hours ago
+49,Colorado House passes bill to limit surveillance pricing and wage setting,https://coloradonewsline.com/briefs/surveillance-pricing-wage-setting/,119,jprs,37,17 hours ago
+50,Embracing Bayesian methods in clinical trials,https://jamanetwork.com/journals/jama/fullarticle/2847011,103,nextos,11,21 hours ago
+51,Hold on to Your Hardware,https://xn--gckvb8fzb.com/hold-on-to-your-hardware/,622,LucidLynx,492,1 day ago
+52,Should QA exist?,https://www.rubick.com/should-qa-exist/,125,PretzelFisch,151,1 day ago
+53,"21,864 Yugoslavian .yu domains",https://jacobfilipp.com/yu/,95,freediver,112,1 day ago
+54,U.S. Ambassador to EU: Stop Fining Big Tech,https://www.cnbc.com/2026/03/27/big-tech-eu-fines-ai-data-centers-us-ambassador-puzder.html,11,vrganj,2,3 hours ago
+55,EMachines never obsolete PCs: More than a meme,https://dfarq.homeip.net/emachines-never-obsolete-pcs-more-than-a-meme/,74,zdw,39,1 day ago
+56,The European AllSky7 fireball network,https://www.allsky7.net/#archive,117,marklit,12,1 day ago
+57,Why so many control rooms were seafoam green (2025),https://bethmathews.substack.com/p/why-so-many-control-rooms-were-seafoam,1020,Amorymeltzer,201,1 day ago
+58,The 'paperwork flood': How I drowned a bureaucrat before dinner,https://sightlessscribbles.com/posts/the-paperwork-flood/,563,robin_reala,457,1 day ago
+59,Apple discontinues the Mac Pro,https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/,644,bentocorp,616,1 day ago
+60,Solving Semantle with the Wrong Embeddings,https://victoriaritvo.com/blog/robust-semantle-solver/,27,evakhoury,,18 hours ago
+61,The Legibility of Serif and Sans Serif Typefaces (2022),https://library.oapen.org//handle/20.500.12657/53344,77,the-mitr,60,1 day ago
+62,Gzip decompression in 250 lines of Rust,https://iev.ee/blog/gzip-decompression-in-250-lines-of-rust/,124,vismit2000,44,1 day ago
+63,Treason in the Futures Markets,https://paulkrugman.substack.com/p/treason-in-the-futures-markets,102,Gasp0de,47,3 hours ago
+64,Schedule tasks on the web,https://code.claude.com/docs/en/web-scheduled-tasks,290,iBelieve,238,1 day ago
+65,Jury finds Meta liable in case over child sexual exploitation on its platforms,https://www.cnn.com/2026/03/24/tech/meta-new-mexico-trial-jury-deliberation,481,billfor,527,3 days ago
+66,Iran oil revenue soars as it's the only exporter out of Hormuz,https://financialpost.com/commodities/energy/oil-gas/iran-oil-revenue-soars-hormuz,109,vrganj,80,1 day ago
+67,The State of Immutable Linux,https://justingarrison.com/blog/state-of-immutable-linux/,32,JustinGarrison,11,22 hours ago
+68,Vibe-Coded Ext4 for OpenBSD,https://lwn.net/SubscriberLink/1064541/1a399d572a046fb9/,71,corbet,58,19 hours ago
+69,Can It Resolve DOOM? Game Engine in 2k DNS Records,https://core-jmp.org/2026/03/can-it-resolve-doom-game-engine-in-2000-dns-records/,49,Einenlum,2,20 hours ago
+70,Fear and denial in Silicon Valley over social media addiction trial,https://www.bbc.com/news/articles/c86e3eglv2go,135,1659447091,192,12 hours ago
+71,$500 GPU outperforms Claude Sonnet on coding benchmarks,https://github.com/itigges22/ATLAS,473,yogthos,268,1 day ago
+72,An unstoppable mushroom is tearing through North American forests,https://www.bbc.com/future/article/20260325-an-unstoppable-mushroom-is-tearing-through-north-american-forests,137,1659447091,79,1 day ago
+73,"Local Bernstein theory, and lower bounds for Lebesgue constants",https://terrytao.wordpress.com/2026/03/23/local-bernstein-theory-and-lower-bounds-for-lebesgue-constants/,46,jjgreen,8,1 day ago
+74,A Faster Alternative to Jq,https://micahkepe.com/blog/jsongrep/,380,pistolario,243,1 day ago
+75,AI got the blame for the Iran school bombing. The truth is more worrying,https://www.theguardian.com/news/2026/mar/26/ai-got-the-blame-for-the-iran-school-bombing-the-truth-is-far-more-worrying,377,cptroot,348,21 hours ago
+76,Agent-to-agent pair programming,https://axeldelafosse.com/blog/agent-to-agent-pair-programming,130,axldelafosse,57,1 day ago
+77,Colibri – chat platform built on the AT Protocol for communities big and small,https://colibri.social/,139,todotask2,98,1 day ago
+78,"Moving from GitHub to Codeberg, for lazy people",https://unterwaditzer.net/2025/codeberg.html,627,jslakro,325,2 days ago
+79,Personal Encyclopedias,https://whoami.wiki/blog/personal-encyclopedias,883,jrmyphlmn,182,2 days ago
+80,Tar: A slop-free alternative to rsync,https://drewdevault.com/2026/03/28/2026-03-28-rsync-without-rsync.html,4,shscs911,1,38 minutes ago
+81,Gulf Countries' Frustration with the US Grows as War Wears On,https://www.bloomberg.com/news/articles/2026-03-27/gulf-countries-frustration-with-the-us-grows-as-war-wears-on,38,petethomas,36,10 hours ago
+82,Go Naming Conventions: A Practical Guide,https://www.alexedwards.net/blog/go-naming-conventions,26,begoon,,21 hours ago
+83,"John Bradley, author of xv, has died",https://voxday.net/2026/03/25/rip-john-bradley/,302,linsomniac,89,1 day ago
+84,Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3,https://github.com/russellromney/turbolite,172,russellthehippo,42,1 day ago
+85,Last gasps of the rent seeking class?,https://geohot.github.io//blog/jekyll/update/2026/02/26/the-last-gasps-of-the-rent-seeking-class.html,160,surprisetalk,151,23 hours ago
+86,Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer,https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/,326,j0rg3,95,1 day ago
+87,Show HN: Open Source 'Conductor + Ghostty',https://github.com/stablyai/orca,16,nwparker,8,15 hours ago
+88,Show HN: Foundry: a Markdown-first CMS written in Go,https://github.com/sphireinc/Foundry,25,nsayoda,8,20 hours ago
+89,Type Construction and Cycle Detection,https://go.dev/blog/type-construction-and-cycle-detection,20,commotionfever,1,14 hours ago
+90,"End of ""Chat Control"": EU parliament stops mass surveillance",https://www.patrick-breyer.de/en/end-of-chat-control-eu-parliament-stops-mass-surveillance-in-voting-thriller-paving-the-way-for-genuine-child-protection/,670,amarcheschi,308,2 days ago

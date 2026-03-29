@@ -1,0 +1,38 @@
+2026-03-29 01:51:01,277 | INFO | Starting scrape | city=Dhaka | category=restaurant | resume_index=0
+2026-03-29 01:51:17,725 | INFO | Detected cards: 20
+2026-03-29 01:51:20,177 | WARNING | index=0 attempt=1 failed: Name পাওয়া যায়নি
+2026-03-29 01:51:23,403 | INFO | Saved: Thai Chi Restaurant & Cafe
+2026-03-29 01:51:26,374 | INFO | Saved: Seasonal Tastes
+2026-03-29 01:51:29,236 | INFO | Saved: Breeze Restaurant
+2026-03-29 01:51:32,136 | INFO | Saved: Bistro-E
+2026-03-29 01:51:34,921 | INFO | Saved: The Garden Kitchen at Sheraton Dhaka
+2026-03-29 01:51:37,786 | INFO | Saved: The Grove Bistro
+2026-03-29 01:51:40,532 | INFO | Saved: MANZO Restaurant Dhaka
+2026-03-29 01:51:43,369 | INFO | Saved: Amrit restaurant
+2026-03-29 01:51:46,195 | INFO | Saved: Chef's Table - Gulshan 2
+2026-03-29 01:51:48,945 | INFO | Saved: Zephyr Restaurant & Lounge
+2026-03-29 01:51:51,605 | INFO | Saved: Prego
+2026-03-29 01:51:54,380 | INFO | Saved: Takumi
+2026-03-29 01:51:57,045 | INFO | Saved: The Green Lounge
+2026-03-29 01:51:59,723 | INFO | Saved: Bird's Eye Roof Top Restaurant and Convention Hall
+2026-03-29 01:52:02,428 | INFO | Saved: Almajlis Arabian Restaurant | مطعم المجلس العربي
+2026-03-29 01:52:05,270 | INFO | Saved: Sajna Restaurant
+2026-03-29 01:52:07,907 | INFO | Saved: Sajna Restaurant
+2026-03-29 01:52:10,551 | INFO | Saved: Travel East Banani
+2026-03-29 01:52:13,253 | INFO | Saved: Takeout Banani
+2026-03-29 01:52:16,027 | INFO | Saved: Laughing Buddha
+2026-03-29 01:52:16,915 | INFO | Done. Output CSV: gmaps_leads.csv
+2026-03-29 02:10:51,086 | INFO | Starting scrape | city=Dhaka | category=restaurant | resume_index=0
+2026-03-29 02:11:00,780 | INFO | Detected cards: 10
+2026-03-29 02:11:00,827 | INFO | Collected stable result links: 10
+2026-03-29 02:11:04,437 | INFO | Saved: Travel East Banani
+2026-03-29 02:11:07,628 | INFO | Saved: MANZO Restaurant Dhaka
+2026-03-29 02:11:10,534 | INFO | Saved: Thai Chi Restaurant & Cafe
+2026-03-29 02:11:13,291 | INFO | Saved: Ozz Cafe
+2026-03-29 02:11:16,326 | INFO | Saved: Tu do Restaurant
+2026-03-29 02:11:19,005 | INFO | Saved: Breeze Restaurant
+2026-03-29 02:11:21,653 | INFO | Saved: Ciao Dhaka
+2026-03-29 02:11:25,171 | INFO | Saved: VAULT | Modern Asian Restaurant
+2026-03-29 02:11:28,132 | INFO | Saved: Seasonal Tastes
+2026-03-29 02:11:30,914 | INFO | Saved: Bistro-E
+2026-03-29 02:11:31,555 | INFO | Done. Output CSV: gmaps_dhaka_restaurant.csv
